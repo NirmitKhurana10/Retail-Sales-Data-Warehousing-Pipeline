@@ -6,7 +6,6 @@
   <p align="center">
     A production-grade Medallion Architecture (Bronze, Silver, Gold) handling incremental data loading, Slowly Changing Dimensions (SCD Type 1 & 2), and Delta Live Tables (DLT).
     <br />
-    <a href="https://github.com/your_username/your_repo_name"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
